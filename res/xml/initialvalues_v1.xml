@@ -1,0 +1,48 @@
+<values>
+
+    <row
+        id="1"
+        table="profiles" >
+        <field
+            name="name"
+            value="家里" />
+        <field
+            name="ip"
+            value="192.168.1.100" />
+        <field
+            name="gateway"
+            value="192.168.1.1" />
+        <field
+            name="netmask"
+            value="255.255.255.0" />
+        <field
+            name="dns1"
+            value="8.8.8.8" />
+        <field
+            name="dns2"
+            value="8.8.4.4" />
+    </row>
+    <row
+        id="2"
+        table="profiles" >
+        <field
+            name="name"
+            value="办公室" />
+        <field
+            name="ip"
+            value="192.168.0.62" />
+        <field
+            name="gateway"
+            value="192.168.0.1" />
+        <field
+            name="netmask"
+            value="255.255.255.0" />
+        <field
+            name="dns1"
+            value="8.8.8.8" />
+        <field
+            name="dns2"
+            value="8.8.4.4" />
+    </row>
+
+</values>

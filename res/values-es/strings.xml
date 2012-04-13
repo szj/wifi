@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi IP Changer</string>
+    <string name="profiles">Perfiles</string>
+    <string name="newProf">Nuevo perfil</string>
+    <string name="saved">Perfil guardado</string>
+    <string name="restored">Cambios deshechos</string>
+    <string name="deleted">Perfil eliminado</string>
+    <string name="save">Guardar</string>
+    <string name="undo">Deshacer</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+    <string name="apply">Aplicar</string>
+    <string name="dialog_name">Qué nombre quieres?</string>
+    <string name="remember">Recuerda que puedes añadir un Widget a tu pantalla de inicio y aplicar cualquiera perfil en un solo toque.\n\nPara hacerlo sólo debes mantener pulsado en algún hueco libre de tu pantalla de inicio, seleccionar la categoría de Widgets y escoger el que se llama "Wifi IP Changer".</string>
+    <string name="wifi_off">El wifi esta desactivado. Quieres ACTIVARLO?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="HC_or_ICS">Tu versión de Android no es compatible con esta aplicación.</string>
+    <string name="error_wifi_on">Imposible activar Wifi. Inténtalo más tarde.</string>
+
+</resources>

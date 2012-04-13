@@ -1,0 +1,40 @@
+<database
+    name="ip_changer"
+    version="1" >
+
+    <table
+        name="profiles"
+        to-string="%name%" >
+        <field
+            name="name"
+            obligatory="true"
+            size="25"
+            type="text" />
+        <field
+            name="ip"
+            obligatory="true"
+            size="15"
+            type="text" />
+        <field
+            name="gateway"
+            obligatory="true"
+            size="15"
+            type="text" />
+        <field
+            name="netmask"
+            obligatory="true"
+            size="15"
+            type="text" />
+        <field
+            name="dns1"
+            obligatory="false"
+            size="15"
+            type="text" />
+        <field
+            name="dns2"
+            obligatory="false"
+            size="15"
+            type="text" />
+    </table>
+
+</database>
